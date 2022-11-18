@@ -1,5 +1,7 @@
 # IBM-Project-1285-1658383227
 Inventory Managment System for Retailers
+
+
 https://user-images.githubusercontent.com/63710909/202764551-1c9d7d04-76e5-47de-b164-e0e3df623277.mp4 click on this link to view the project demo video.
 
 Category: Cloud App Development
